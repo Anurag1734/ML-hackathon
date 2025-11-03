@@ -1,5 +1,10 @@
 # ML-hackathon
 
+## Teammates
+- Abhinav bhargava     - PES1UG23AM014
+- Aneesh bharadwaj k s - PES1UG23AM047
+- Anurag               - PES1UG23AM058
+
 ## Overview
 An intelligent Hangman game-solving agent combining Hidden Markov Models (HMM) for probabilistic letter prediction and Reinforcement Learning (RL) for optimal decision-making.
 
