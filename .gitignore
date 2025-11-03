@@ -39,10 +39,6 @@ ENV/
 *.swo
 *~
 
-# Data files (don't commit large datasets)
-data/raw/corpus.txt
-data/processed/*.txt
-
 # Model checkpoints (too large)
 models/*.pt
 models/*.pth
